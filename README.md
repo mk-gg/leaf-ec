@@ -24,7 +24,7 @@
 
 ``npm install``
 
-### Make sure to have .env file ready
+### Environment Configuration
 Make sure to have a `.env` file ready in the `ecom-backend/` directory. This file must contain the following environment variables:
 ````
 KINDE_CLIENT_ID=<client-id>
