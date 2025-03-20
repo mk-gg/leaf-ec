@@ -74,12 +74,12 @@ npx nx show project ecom-backend
 ## Screenshots
 <table>
   <tr>
-    <td><img src="/preview/homepage.png" alt="Image 1" width="200"/></td>
-    <td><img src="/preview/products.png" alt="Image 2" width="200"/></td>
+    <td><img src="/preview/homepage.png" alt="Image 1" width="400"/></td>
+    <td><img src="/preview/products.png" alt="Image 2" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="/preview/shopping_cart.png" alt="Image 3" width="200"/></td>
-    <td><img src="/preview/admin_orders.png" alt="Image 4" width="200"/></td>
+    <td><img src="/preview/shopping_cart.png" alt="Image 3" width="400"/></td>
+    <td><img src="/preview/admin_orders.png" alt="Image 4" width="400"/></td>
   </tr>
 </table>
 
