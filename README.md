@@ -18,7 +18,7 @@
 - Docker
 - JDK
 - Node.Js
-- Angular CLI (I've used V18)
+- Angular CLI (V18)
 
 ### Install the dependencies first
 
